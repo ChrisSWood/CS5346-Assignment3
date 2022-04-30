@@ -51,7 +51,7 @@ on:
 
 env:
   PROJECT_ID: focus-sequencer-339518
-  GAR_LOCATION: us-east1
+  GAR_LOCATION: us-central1
   SERVICE: assignment3
   REGION: us-central1
 
